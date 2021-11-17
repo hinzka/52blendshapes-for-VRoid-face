@@ -1,6 +1,5 @@
 # 52blendshapes-for-VRoid-face
-
-![hinzka_3__1](https://user-images.githubusercontent.com/32916633/142254623-1d51c5b7-89f3-4762-b278-839107e75e19.png)
+![hinzka_r__1](https://user-images.githubusercontent.com/32916633/142255242-ffc62854-9d7a-4dcd-9245-3b58139a135e.png)
 
 
 This model is a personal modification of the VRM model of the official version of VRoid Studio.
