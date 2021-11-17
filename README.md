@@ -1,6 +1,9 @@
 # 52blendshapes-for-VRoid-face
 
 
+https://user-images.githubusercontent.com/32916633/142254623-1d51c5b7-89f3-4762-b278-839107e75e19.png
+
+
 This model is a personal modification of the VRM model of the official version of VRoid Studio.
 It contains 52 BlendShapes and auxiliary shapes that are compatible with the iPhone's facial expression tracking function, and supports the specification called Perfect Sync.
 
