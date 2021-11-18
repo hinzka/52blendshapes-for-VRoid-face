@@ -10,7 +10,9 @@ Please feel free to use it as a source data to copy to other VRoid models.
 
 
 VRoid Studio正式版のVRMモデルを個人で改変したモデルです。
-iPhoneの表情トラッキング機能に対応したBlendShape52個および補助シェイプを含み、パーフェクトシンクと呼ばれる仕様に対応しています。
+iPhoneの表情トラッキング機能に対応したBlendShape52個および補助シェイプを含んでいます。
 
-表情の研究と共有のために作成したデータとなります。
+本モデルはパーフェクトシンクと呼ばれる仕様に対応しています。
+
+表情の研究と情報共有の目的で作成したデータとなります。
 他のVRoidモデルへのコピー元データとして、どうぞ自由にお使いください。
