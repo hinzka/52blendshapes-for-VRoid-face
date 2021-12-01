@@ -15,10 +15,13 @@ iPhoneの表情トラッキング機能に対応したBlendShape52個および�
 
 男性素体モデルと女性素体モデルがあります。利用したいモデルをダウンロードしてお使いください。
 
-パーフェクトシンク表情調整TIPS https://hinzka.hatenablog.com/entry/2021/05/05/233915
+■パーフェクトシンク表情調整TIPS  
+https://hinzka.hatenablog.com/entry/2021/05/05/233915  
 
+■トラッキングのターゲットとなる現実側の表情と表情モデリング上の要点  
+https://docs.google.com/document/d/1Y3vOxI0f3K7dI2XyYoxl0RtT9ebThF6Qbiyg-Z9SNxs/edit?usp=sharing  
 
-
+----------------------------------------
 
 This model is a personal modification of the VRM model of the official version of VRoid Studio.  
 It contains 52 BlendShapes and auxiliary shapes that are compatible with the iPhone's facial expression tracking function, and supports the specification called Perfect Sync.
@@ -30,6 +33,11 @@ There are male and female body models available. Please download the model you w
 
 
 
-PerfectSync facial adjustment TIPS https://hinzka.hatenablog.com/entry/2021/05/08/105733
+ - PerfectSync facial adjustment TIPS  
+https://hinzka.hatenablog.com/entry/2021/05/08/105733  
+
+
+- Realistic facial expressions to be targeted for tracking and key points for facial expression modeling   
+https://docs.google.com/document/d/1Y3vOxI0f3K7dI2XyYoxl0RtT9ebThF6Qbiyg-Z9SNxs/edit?usp=sharing  
 
 
