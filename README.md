@@ -18,8 +18,9 @@ iPhoneの表情トラッキング機能に対応したBlendShape52個および�
 ■パーフェクトシンク表情調整TIPS  
 https://hinzka.hatenablog.com/entry/2021/05/05/233915  
 
-■トラッキングのターゲットとなる現実側の表情と表情モデリング上の要点  
-https://docs.google.com/document/d/1Y3vOxI0f3K7dI2XyYoxl0RtT9ebThF6Qbiyg-Z9SNxs/edit?usp=sharing  
+■iPhone顔トラッキング用 52BlendShapes  
+（トラッキングのターゲットとなる現実側の表情と表情モデリング上の要点）  
+https://hinzka.hatenablog.com/entry/2021/12/02/005814 
 
 ----------------------------------------
 
@@ -37,7 +38,8 @@ There are male and female body models available. Please download the model you w
 https://hinzka.hatenablog.com/entry/2021/05/08/105733  
 
 
-- Realistic facial expressions to be targeted for tracking and key points for facial expression modeling   
-https://docs.google.com/document/d/1Y3vOxI0f3K7dI2XyYoxl0RtT9ebThF6Qbiyg-Z9SNxs/edit?usp=sharing  
+- 52 blendshapes for iPhone face Tracking  
+(Realistic facial expressions to be targeted for tracking and key points for facial expression modeling)   
+https://hinzka.hatenablog.com/entry/2021/12/21/222635
 
 
